@@ -49,7 +49,7 @@ public class NotePad extends  JFrame implements ActionListener, WindowListener {
         createMenuItem(jmeedit,"Copy");
         createMenuItem(jmeedit,"Paste");
 
-        createMenuItem(jmhelp,"Aboutt NodePad");
+        createMenuItem(jmhelp,"About NodePad");
 
         jmb.add(jmfile);
         jmb.add(jmeedit);
